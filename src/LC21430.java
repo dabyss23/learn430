@@ -24,6 +24,8 @@ public class LC21430 {
         System.out.println("dskfjsldfj");
 
         System.out.println("数量的快捷方式的方式");
+
+        System.out.println("qwerertewr");
     }
 
 }

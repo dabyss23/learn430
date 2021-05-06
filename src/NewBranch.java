@@ -6,5 +6,6 @@ public class NewBranch {
         System.out.println("产生冲突吧！！！");
         System.out.println("合并");
         System.out.println("回滚掉");
+        System.out.println("成功？");
     }
 }

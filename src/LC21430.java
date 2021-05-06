@@ -20,6 +20,8 @@ public class LC21430 {
                 break;
             }
         }
+
+        System.out.println("qwerertewr");
     }
 
 }
